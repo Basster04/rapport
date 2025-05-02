@@ -201,5 +201,3 @@ Tu peux aussi **exécuter la macro avec un raccourci clavier** :
 - **✔ Barre d'outils d'accès rapide** : Un bouton simple en haut de Word.
 - **✔ Ruban Word** : Un bouton dans un onglet (plus esthétique).
 - **✔ Raccourci clavier** : Pour une exécution ultra-rapide.
-
-Tu es maintenant totalement autonome pour exécuter ta macro en un clic ! 🚀
