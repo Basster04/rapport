@@ -122,10 +122,6 @@ Avant d’exécuter la macro, il faut insérer des signets dans le document pour
 
 ⚠️ **Les noms des signets doivent être exactement les mêmes que ceux du code VBA.**
 
-**[![image.png](https://bsk.hackox.synology.me/uploads/images/gallery/2025-05/scaled-1680-/scnO2W7B8flE1kms-image.png)](https://bsk.hackox.synology.me/uploads/images/gallery/2025-05/scnO2W7B8flE1kms-image.png)**
-
-**[![image.png](https://bsk.hackox.synology.me/uploads/images/gallery/2025-05/scaled-1680-/4V7lRCz6CmeChr2F-image.png)](https://bsk.hackox.synology.me/uploads/images/gallery/2025-05/4V7lRCz6CmeChr2F-image.png)**
-
 ---
 
 ## **📌 Étape 4 : Exécuter la macro**
