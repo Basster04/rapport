@@ -148,3 +148,62 @@ Avant d’exécuter la macro, il faut insérer des signets dans le document pour
 ✔ **Automatisé** : Mets à jour tout le tableau en un clic.  
 ✔ **Fiable** : Utilise les signets pour localiser les sections.  
 ✔ **Flexible** : Facile à adapter pour d’autres rapports.
+
+## **📌 Ajouter un bouton pour exécuter la macro automatiquement**
+
+Deux options :
+
+1. **Ajout dans la barre d'outils d'accès rapide** (plus simple)
+2. **Ajout dans le ruban Word (plus avancé, mais plus esthétique)**
+
+---
+
+### **1️⃣ Ajouter la macro dans la barre d'outils d'accès rapide**
+
+1. **Ouvrir Word et ton document.**
+2. **Cliquer sur la flèche en haut à gauche** (Barre d'outils d'accès rapide).
+3. **Cliquer sur "Autres commandes..."**
+4. Dans la fenêtre, sélectionner **"Macros"** dans la liste déroulante "Choisir les commandes dans :".
+5. Trouver **"MettreAJourTableauPages"**, sélectionne-la et clique sur **"Ajouter"**.
+6. Cliquer sur **OK**.
+
+✅ **Un bouton est maintenant visible en haut de Word !** Nous pouvons l’utiliser pour exécuter la macro en un clic.
+
+---
+
+### **2️⃣ Ajouter un bouton dans le ruban Word**
+
+Si tu veux un bouton directement dans un **onglet du ruban**, voici comment faire :
+
+1. **Ouvrir Word et ton document.**
+2. Va dans **"Fichier"** &gt; **"Options"** &gt; **"Personnaliser le ruban"**.
+3. Dans la partie droite, cliquer sur **"Nouveau Groupe"** (sous un onglet comme "Accueil" ou "Révision").
+4. Renommer ce groupe (ex. : "Macros").
+5. Dans la partie gauche, sélectionner **"Macros"** dans "Choisir les commandes dans :".
+6. Trouver **"MettreAJourTableauPages"**, sélectionner-la et clique sur **"Ajouter"**.
+7. Cliquer sur **OK**.
+
+✅ **Un bouton apparaît maintenant dans le ruban Word, et tu peux exécuter la macro facilement !**
+
+---
+
+### **📌 Option Supplémentaire : Associer un Raccourci Clavier**
+
+Tu peux aussi **exécuter la macro avec un raccourci clavier** :
+
+1. **Fichier** &gt; **Options** &gt; **Personnaliser le ruban** &gt; **Raccourcis clavier (en bas)**.
+2. Sélectionner **"Macros"**, puis **"MettreAJourTableauPages"**.
+3. Cliquer sur **"Nouvelle touche de raccourci"** et choisir un raccourci (ex. : `CTRL + ALT + P`).
+4. Cliquer sur **"Attribuer"**, puis **OK**.
+
+✅ **Maintenant, tu peux exécuter la macro avec ton raccourci !**
+
+---
+
+### **🎉 Résumé**
+
+- **✔ Barre d'outils d'accès rapide** : Un bouton simple en haut de Word.
+- **✔ Ruban Word** : Un bouton dans un onglet (plus esthétique).
+- **✔ Raccourci clavier** : Pour une exécution ultra-rapide.
+
+Tu es maintenant totalement autonome pour exécuter ta macro en un clic ! 🚀
