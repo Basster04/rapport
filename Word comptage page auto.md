@@ -2,8 +2,8 @@
 
 ## **📌 Étape 1 : Ouvrir l’éditeur VBA**
 
-1. **Ouvre le document Word.**
-2. **Appuie sur `ALT + F11`** pour ouvrir l'éditeur VBA.
+1. **Ouvrir le document Word.**
+2. **Appuier sur `ALT + F11`** pour ouvrir l'éditeur VBA.
 3. **Dans l’éditeur VBA :**
     
     
